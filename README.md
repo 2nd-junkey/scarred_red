@@ -27,3 +27,18 @@ iCloud(とdropbox)にscarred_redディレクトリが作成される。
 - 復旧
   - iCloud上の`$ scarred_red/restore.sh`を実行する。
   - 手動でバックアップがない分の初期設定をする。
+
+
+## favorite tools
+- alacritty
+  - terminal
+- pycharm
+  - IDE
+- gas_mask
+  - Host management
+- 1password
+  - dox management
+- Alfred
+  - launcher
+- gitup
+  - GUI git management
